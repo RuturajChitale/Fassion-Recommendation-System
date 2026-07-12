@@ -1,7 +1,7 @@
-streamlit
-tensorflow
-keras
-numpy
-scikit-learn
-Pillow
-opencv-python-headless
+streamlit==1.46.1
+tensorflow-cpu==2.16.1
+keras==3.3.3
+numpy==1.26.4
+scikit-learn==1.5.1
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
